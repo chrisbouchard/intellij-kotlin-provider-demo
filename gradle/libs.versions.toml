@@ -1,0 +1,6 @@
+[plugins]
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version = "1.8.10" }
+
+[libraries]
+mockk = "io.mockk:mockk:1.13.4"
+kotlinx-serialization-json = "org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0"
